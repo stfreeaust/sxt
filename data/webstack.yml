@@ -6,12 +6,12 @@
     - title: YouTube
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg
       url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
-      description: 科技共享，科学上网教学频道
+      description: 科技共享科学上网教学
     - title: 他的资源站点
       qrcode: images/qrcodes/bk.png
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
       url: https://kjgx668.blogspot.com/
-      description: 详细图文教程
+      description: 详细图文
     - title: 最便宜的vps
       logo: images/logos/racknerd.png
       url: https://my.racknerd.com/aff.php?aff=13491
